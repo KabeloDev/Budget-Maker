@@ -1,4 +1,4 @@
-<h1>Contact List demo App</h1>
+<h1>Budget Maker app</h1>
 
  ### [YouTube Demonstration](https://youtu.be/0T1vN1QfstQ)
 
