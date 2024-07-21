@@ -1,9 +1,9 @@
 <h1>Budget Maker app</h1>
 
- ### [YouTube Demonstration](https://youtu.be/0T1vN1QfstQ)
+ ### [YouTube Demonstration](https://youtu.be/D8JGeBty4yw)
 
 <h2>Description</h2>
-Budget Maker application that will allow users to keep track of their income and expenses more efficiently. At this point I've worked on creating categories and allowing users to view, edit and delete those categories.
+Budget Maker application that will allow users to keep track of their income and expenses more efficiently. 
 <br />
 
 
@@ -11,6 +11,7 @@ Budget Maker application that will allow users to keep track of their income and
 
 - <b>ASP.NET Core Web API</b>
 - <b>ASP.NET Core MVC</b>
+- <b>MS SQL Server</b>
 - <b>Bootstrap</b>
 
 <h2>Environments Used </h2>
@@ -21,6 +22,22 @@ Budget Maker application that will allow users to keep track of their income and
 <h2>Program walk-through:</h2>
 
 <p align="center">
+Current balance view: <br/>
+<img src="https://i.imgur.com/6VNskZv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Transaction list view: <br/>
+<img src="https://i.imgur.com/8cfLdBH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Transaction create view: <br/>
+<img src="https://i.imgur.com/QklKU5l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Transaction edit view: <br/>
+<img src="https://i.imgur.com/eKKbEya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Category list view: <br/>
 <img src="https://i.imgur.com/bu3Z0FH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
