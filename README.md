@@ -23,35 +23,35 @@ Budget Maker application that will allow users to keep track of their income and
 
 <p align="center">
 Current balance view: <br/>
-<img src="https://i.imgur.com/6VNskZv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6VNskZv.png" height="80%" width="80%" />
 <br />
 <br />
 Transaction list view: <br/>
-<img src="https://i.imgur.com/8cfLdBH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8cfLdBH.png" height="80%" width="80%" />
 <br />
 <br />
 Transaction create view: <br/>
-<img src="https://i.imgur.com/QklKU5l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QklKU5l.png" height="80%" width="80%" />
 <br />
 <br />
 Transaction edit view: <br/>
-<img src="https://i.imgur.com/eKKbEya.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eKKbEya.png" height="80%" width="80%" />
 <br />
 <br />
 Category list view: <br/>
-<img src="https://i.imgur.com/bu3Z0FH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bu3Z0FH.png" height="80%" width="80%" />
 <br />
 <br />
 Category create view:  <br/>
-<img src="https://i.imgur.com/6o67pWp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6o67pWp.png" height="80%" width="80%" />
 <br />
 <br />
 Category edit view: <br/>
-<img src="https://i.imgur.com/1FWhaXx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1FWhaXx.png" height="80%" width="80%" />
 <br />
 <br />
 MS SQL database:  <br/>
-<img src="https://i.imgur.com/fvx3QGD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fvx3QGD.png" height="80%" width="80%" />
 <br />
 <br />
 
@@ -59,12 +59,3 @@ MS SQL database:  <br/>
 
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
