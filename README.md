@@ -1,6 +1,7 @@
 <h1>Budget Maker app</h1>
 
- ### [YouTube Demonstration](https://youtu.be/D8JGeBty4yw)
+ ### [YouTube Demonstration part 1](https://youtu.be/D8JGeBty4yw)
+ ### [YouTube Demonstration part 2](https://youtu.be/D8JGeBty4yw)
 
 <h2>Description</h2>
 Budget Maker application that will allow users to keep track of their income and expenses more efficiently. 
