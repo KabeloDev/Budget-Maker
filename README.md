@@ -28,7 +28,7 @@ Current balance view: <br/>
 <br />
 <br />
 Transaction list view: <br/>
-<img src="https://i.imgur.com/8cfLdBH.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/pK1MJHc.png" height="80%" width="80%" />
 <br />
 <br />
 Transaction create view: <br/>
